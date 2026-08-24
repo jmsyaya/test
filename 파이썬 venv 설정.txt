@@ -1,0 +1,16 @@
+python -m venv venv
+
+venv\Scripts\activate (Windows)
+
+where pip
+
+where python
+
+python -m pip install numpy pandas
+
+pip list
+
+
+pip freeze > requirements.txt
+
+pip install -r requirements.txt
